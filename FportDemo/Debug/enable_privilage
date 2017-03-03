@@ -1,0 +1,259 @@
+	Number of entries: 47
+
+
+	TCP[0] Local Port: 135 
+	TCP[0] Owning PID: 1048
+	Process Name: svchost.exe
+	Path: C:\Windows\system32\svchost.exe
+
+
+	TCP[1] Local Port: 445 
+	TCP[1] Owning PID: 4
+	Process Name: System
+
+
+	TCP[2] Local Port: 2869 
+	TCP[2] Owning PID: 4
+	Process Name: System
+
+
+	TCP[3] Local Port: 3306 
+	TCP[3] Owning PID: 3464
+	Process Name: mysqld.exe
+	Path: E:\MySQL5.6\bin\mysqld.exe
+
+
+	TCP[4] Local Port: 15000 
+	TCP[4] Owning PID: 6940
+	Process Name: DownloadSDKServer.exe
+	Path: C:\Program Files\Thunder Network\Thunder\Program\SDK\DownloadSDKServer.exe
+
+
+	TCP[5] Local Port: 49152 
+	TCP[5] Owning PID: 668
+	Process Name: wininit.exe
+	Path: C:\Windows\system32\wininit.exe
+
+
+	TCP[6] Local Port: 49153 
+	TCP[6] Owning PID: 1192
+	Process Name: svchost.exe
+	Path: C:\Windows\System32\svchost.exe
+
+
+	TCP[7] Local Port: 49154 
+	TCP[7] Owning PID: 1268
+	Process Name: svchost.exe
+	Path: C:\Windows\system32\svchost.exe
+
+
+	TCP[8] Local Port: 49159 
+	TCP[8] Owning PID: 4
+	Process Name: System
+
+
+	TCP[9] Local Port: 49160 
+	TCP[9] Owning PID: 4
+	Process Name: System
+
+
+	TCP[10] Local Port: 49161 
+	TCP[10] Owning PID: 4
+	Process Name: System
+
+
+	TCP[11] Local Port: 49164 
+	TCP[11] Owning PID: 740
+	Process Name: lsass.exe
+	Path: C:\Windows\system32\lsass.exe
+
+
+	TCP[12] Local Port: 49171 
+	TCP[12] Owning PID: 716
+	Process Name: services.exe
+	Path: C:\Windows\system32\services.exe
+
+
+	TCP[13] Local Port: 49172 
+	TCP[13] Owning PID: 6112
+	Process Name: svchost.exe
+	Path: C:\Windows\system32\svchost.exe
+
+
+	TCP[14] Local Port: 54321 
+	TCP[14] Owning PID: 6940
+	Process Name: DownloadSDKServer.exe
+	Path: C:\Program Files\Thunder Network\Thunder\Program\SDK\DownloadSDKServer.exe
+
+
+	TCP[15] Local Port: 8890 
+	TCP[15] Owning PID: 1692
+	Process Name: kxescore.exe
+	Path: C:\Program Files\kingsoft\kingsoft antivirus\kxescore.exe
+
+
+	TCP[16] Local Port: 8990 
+	TCP[16] Owning PID: 1692
+	Process Name: kxescore.exe
+	Path: C:\Program Files\kingsoft\kingsoft antivirus\kxescore.exe
+
+
+	TCP[17] Local Port: 9080 
+	TCP[17] Owning PID: 6940
+	Process Name: DownloadSDKServer.exe
+	Path: C:\Program Files\Thunder Network\Thunder\Program\SDK\DownloadSDKServer.exe
+
+
+	TCP[18] Local Port: 28317 
+	TCP[18] Owning PID: 4692
+	Process Name: svchost.exe
+	Path: C:\Windows\system32\svchost.exe
+
+
+	TCP[19] Local Port: 45267 
+	TCP[19] Owning PID: 7288
+	Process Name: Thunder.exe
+	Path: C:\Program Files\Thunder Network\Thunder\Program\Thunder.exe
+
+
+	TCP[20] Local Port: 49155 
+	TCP[20] Owning PID: 1692
+	Process Name: kxescore.exe
+	Path: C:\Program Files\kingsoft\kingsoft antivirus\kxescore.exe
+
+
+	TCP[21] Local Port: 49156 
+	TCP[21] Owning PID: 1692
+	Process Name: kxescore.exe
+	Path: C:\Program Files\kingsoft\kingsoft antivirus\kxescore.exe
+
+
+	TCP[22] Local Port: 49157 
+	TCP[22] Owning PID: 1692
+	Process Name: kxescore.exe
+	Path: C:\Program Files\kingsoft\kingsoft antivirus\kxescore.exe
+
+
+	TCP[23] Local Port: 49158 
+	TCP[23] Owning PID: 1692
+	Process Name: kxescore.exe
+	Path: C:\Program Files\kingsoft\kingsoft antivirus\kxescore.exe
+
+
+	TCP[24] Local Port: 139 
+	TCP[24] Owning PID: 4
+	Process Name: System
+
+
+	TCP[25] Local Port: 52237 
+	TCP[25] Owning PID: 10080
+	Process Name: Microsoft.VsHub.Server.HttpHost.exe
+	Path: C:\Program Files\Common Files\Microsoft Shared\VsHub\1.0.0.0\Microsoft.VsHub.Server.HttpHost.exe
+
+
+	TCP[26] Local Port: 53224 
+	TCP[26] Owning PID: 6940
+	Process Name: DownloadSDKServer.exe
+	Path: C:\Program Files\Thunder Network\Thunder\Program\SDK\DownloadSDKServer.exe
+
+
+	TCP[27] Local Port: 54014 
+	TCP[27] Owning PID: 10080
+	Process Name: Microsoft.VsHub.Server.HttpHost.exe
+	Path: C:\Program Files\Common Files\Microsoft Shared\VsHub\1.0.0.0\Microsoft.VsHub.Server.HttpHost.exe
+
+
+	TCP[28] Local Port: 54246 
+	TCP[28] Owning PID: 10080
+	Process Name: Microsoft.VsHub.Server.HttpHost.exe
+	Path: C:\Program Files\Common Files\Microsoft Shared\VsHub\1.0.0.0\Microsoft.VsHub.Server.HttpHost.exe
+
+
+	TCP[29] Local Port: 54249 
+	TCP[29] Owning PID: 0
+	Process Name: System Idle Process
+
+
+	TCP[30] Local Port: 54251 
+	TCP[30] Owning PID: 0
+	Process Name: System Idle Process
+
+
+	TCP[31] Local Port: 54252 
+	TCP[31] Owning PID: 0
+	Process Name: System Idle Process
+
+
+	TCP[32] Local Port: 54255 
+	TCP[32] Owning PID: 0
+	Process Name: System Idle Process
+
+
+	TCP[33] Local Port: 54256 
+	TCP[33] Owning PID: 0
+	Process Name: System Idle Process
+
+
+	TCP[34] Local Port: 54257 
+	TCP[34] Owning PID: 0
+	Process Name: System Idle Process
+
+
+	TCP[35] Local Port: 54258 
+	TCP[35] Owning PID: 0
+	Process Name: System Idle Process
+
+
+	TCP[36] Local Port: 54259 
+	TCP[36] Owning PID: 0
+	Process Name: System Idle Process
+
+
+	TCP[37] Local Port: 54260 
+	TCP[37] Owning PID: 0
+	Process Name: System Idle Process
+
+
+	TCP[38] Local Port: 54262 
+	TCP[38] Owning PID: 0
+	Process Name: System Idle Process
+
+
+	TCP[39] Local Port: 54263 
+	TCP[39] Owning PID: 0
+	Process Name: System Idle Process
+
+
+	TCP[40] Local Port: 54265 
+	TCP[40] Owning PID: 0
+	Process Name: System Idle Process
+
+
+	TCP[41] Local Port: 54266 
+	TCP[41] Owning PID: 0
+	Process Name: System Idle Process
+
+
+	TCP[42] Local Port: 54267 
+	TCP[42] Owning PID: 0
+	Process Name: System Idle Process
+
+
+	TCP[43] Local Port: 54272 
+	TCP[43] Owning PID: 0
+	Process Name: System Idle Process
+
+
+	TCP[44] Local Port: 54273 
+	TCP[44] Owning PID: 0
+	Process Name: System Idle Process
+
+
+	TCP[45] Local Port: 139 
+	TCP[45] Owning PID: 4
+	Process Name: System
+
+
+	TCP[46] Local Port: 139 
+	TCP[46] Owning PID: 4
+	Process Name: System
