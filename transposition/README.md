@@ -47,6 +47,7 @@
 ![test2](screenshot/test2.JPG)
 
 试将`cnss{1_am_50_50r79}`作为源程序的输入，校验成功：
+
 ![success](screenshot/success.JPG)
 
 **至此，破译成功，校验使用的函数宏究竟是干什么的我就不管了.**
