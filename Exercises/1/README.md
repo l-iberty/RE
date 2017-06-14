@@ -19,7 +19,7 @@
 ### 破解: 修改程序码
 `call GetDlgItemTextA`之后的指令起始地址是`004050D1`, 目标地址是`004050FE`, 跳转偏移是`004050FE-004050D1-5=0x28`, 则跳转指令机器码为`E9 28 00 00 00`, 使用UltraEdit打开exe文件, 修改:
 
-![code](screenshot/code.png)
+![code](screenshot/code.PNG)
 
 完成破解:
 
