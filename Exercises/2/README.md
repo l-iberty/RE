@@ -29,9 +29,9 @@
 
 ![s3](screenshot/s3.png)
 
-**由上图可知，获取到`GetDlgItemTextA`的地址后将其后移2字节, 因为所有系统API入口出都有`mov edi,edi`的“废话”，跳过它并无大碍，然而却使得OD无法识别被调用的系统API. 最后将修改函数入口地址放在`ds:4032E2`处. 对于其他API也是同样的处理.**
+**由上图可知，获取到`GetDlgItemTextA`的地址后将其后移2字节, 因为所有系统API入口出都有`mov edi,edi`的“废话”，跳过它并无大碍，然而却使得OD无法识别被调用的系统API. 最后将修改后的函数入口地址放在`ds:4032E2`处. 对于其他API也是同样的处理.**
 
-### 那么问题是，如何在调用`GetDlgItemTextA`的地方下断点？我只能猜测，既然前面把`GetDlgItemTextA`的地址放在了`ds:4032E2`, 需要调用时也许会`mov eax,ds:[4032E2]`, 然后`jmp eax`(因为前面调用`GetModuleHandleA`就是这样的). 在OD中搜索指令`jmp eax`(右键-Search for-All commands), 结果如下:**
+### 那么问题是，如何在调用`GetDlgItemTextA`的地方下断点？我只能猜测，既然前面把`GetDlgItemTextA`的地址放在了`ds:4032E2`, 需要调用时也许会`mov eax,ds:[4032E2]`, 然后`jmp eax`(因为前面调用`GetModuleHandleA`就是这样的). 在OD中搜索指令`jmp eax`(右键-Search for-All commands), 结果如下:
 
 ![s5](screenshot/s5.png)
 
