@@ -23,7 +23,7 @@
 
 **接着准备好`GetProcAddress`的入口地址，以便后续调用:**
 
-![s4](screenshot/s4.png)
+![s4](screenshot/s4.PNG)
 
 **通过`LoadLibrary`获取`user32.dll`的地址后调用`GetProcAddress`获取函数地址:**
 

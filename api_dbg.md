@@ -14,7 +14,6 @@
 ### 拦截警告声： 
 - MessageBeep 发出系统警告声(如果没有声卡就直接驱动系统喇叭发声) 
 
-
 ### 拦截对话框： 
 - DialogBox 创建模态对话框 
 - DialogBoxParam(A) 创建模态对话框 
@@ -27,10 +26,8 @@
 - GetDlgItemText(A) 获取对话框文本 
 - GetDlgItemInt 获取对话框整数值 
 
-
 ### 拦截剪贴板： 
 - GetClipboardData 获取剪贴板数据 
-
 
 ### 拦截注册表： 
 - RegOpenKey(A) 打开子健 
@@ -40,11 +37,9 @@
 - RegSetValue(A) 设置子健 
 - RegSetValueEx(A) 设置子健 
 
-
 ### 功能限制拦截断点： 
 - EnableMenuItem 禁止或允许菜单项 
 - EnableWindow 禁止或允许窗口 
-
 
 ### 拦截时间： 
 - GetLocalTime 获取本地时间 
@@ -54,10 +49,9 @@
 - GetCurrentTime 获取当前时间（16位） 
 - SetTimer 创建定时器 
 - TimerProc 定时器超时回调函数 
-- GetDlgItemInt 得指定输入框整数值 
-- GetDlgItemText 得指定输入框输入字符串 
-- GetDlgItemTextA 得指定输入框输入字符串 
-
+- GetDlgItemInt 获得指定输入框整数值 
+- GetDlgItemText 获得指定输入框输入字符串 
+- GetDlgItemTextA 获得指定输入框输入字符串 
 
 ### 拦截文件： 
 - CreateFileA 创建或打开文件 (32位) 
@@ -67,7 +61,6 @@
 - GetModuleFileNameA 
 - GetFileSize 
 - Setfilepointer 
-- fileopen 
 - FindFirstFileA 
 - ReadFile 
 
